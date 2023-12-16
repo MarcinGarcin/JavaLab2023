@@ -27,7 +27,6 @@ public class Samochod{
     public double getZuzycieNa100km() {
         return zuzycieNa100km;
     }
-
     public double zasieg(){
         return (paliwoWZbiorniku/zuzycieNa100km)*100;
     }
@@ -40,8 +39,8 @@ public class Samochod{
     public void trasa(double liczbaKilometrów){
         paliwoWZbiorniku -= (liczbaKilometrów/100)*zuzycieNa100km;
     }
-    public void main(String args[]){
 
-    }
+
+
 }
 
