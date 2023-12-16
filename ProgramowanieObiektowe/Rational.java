@@ -57,7 +57,6 @@ public class Rational {
         else
             return ( licznik+ "/" + mianownik);
     }
-    // funkcja obliczająca największy wspólny dzielnik
     public int najwiekszyWspolnyDzielnik(int a, int b){
         if (a == 0)
             return b;
