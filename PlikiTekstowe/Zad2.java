@@ -20,7 +20,7 @@ public class Zad2 {
         return listOfHouses;
     }
 
-    public static List<String[]> returnRequiredHouses(List<String[]> allHouses, String houseName, String housePrice, String floorsAmount, String Location) {
+    public static List<String[]> filterHouseByCriteria(List<String[]> allHouses, String houseName, String housePrice, String floorsAmount, String Location) {
         List<String[]> approvedHouses = new ArrayList<>();
         for (String[] houseData : allHouses) {
             if (houseData[2].equals(floorsAmount)  || houseData[3].equals(Location)) {
@@ -37,7 +37,7 @@ public class Zad2 {
         return approvedHouses;
     }
 
-    public static List<String> tranfsormToString(List<String[]> approvedHouses) {
+    public static List<String> convertToString(List<String[]> approvedHouses) {
         String houseDataLine;
         List<String> stringHouseData = new ArrayList<>();
         for (String[] houseData : approvedHouses) {
@@ -63,10 +63,10 @@ public class Zad2 {
     public static void main(String[] args) {
         List<String[]> houseDataTmp = openHouseData("danedomów");
         List<String> houseData = new ArrayList<>();
-        houseDataTmp = returnRequiredHouses(houseDataTmp,"dom","10k","1","Wies");
-        houseDataTmp = decreasePriceBy10(houseDataTmp);
 
-        houseData = tranfsormToString(houseDataTmp);
+        houseDataTmp = filterHouseByCriteria(houseDataTmp,"dom","10k","1","Wies");
+        houseDataTmp = decreasePriceBy10(houseDataTmp);
+        houseData = convertToString(houseDataTmp);
         writeToFile(houseData,"danedomowkoniec");
     }
 }
