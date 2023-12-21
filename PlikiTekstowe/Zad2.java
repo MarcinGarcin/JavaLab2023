@@ -64,7 +64,7 @@ public class Zad2 {
         List<String[]> houseDataTmp = openHouseData("danedomów");
         List<String> houseData = new ArrayList<>();
         houseDataTmp = returnRequiredHouses(houseDataTmp,"dom","10k","1","Wies");
-        houseDataTmp = decreasePriceBy10(houseDataTmp);;
+        houseDataTmp = decreasePriceBy10(houseDataTmp);
 
         houseData = tranfsormToString(houseDataTmp);
         writeToFile(houseData,"danedomowkoniec");
