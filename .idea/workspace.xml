@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Final">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IITermin2012/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YxGmEPpinHDHASNhipNSSwc9HQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "C:/Users/Marcin/Documents/GitHub/JavaLab2023",
+    "onboarding.tips.debug.path": "C:/Users/Marcin/Documents/GitHub/JavaLab2023/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IITermin2012.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IITermin2012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PrzetwarzanieNapisow" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PrzetwarzanieNapisow" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="" />
+      <created>1701459973619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701459973619</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First functionality">
+      <option name="closed" value="true" />
+      <created>1701460130242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701460130242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final">
+      <option name="closed" value="true" />
+      <created>1701461773103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701461773103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final">
+      <option name="closed" value="true" />
+      <created>1701461810341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701461810341</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Zadania o przetwarzaniu stringów od Pana sacewicza">
+      <option name="closed" value="true" />
+      <created>1701733842613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701733842613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Zadania o przetwarzaniu stringów od Pana sacewicza">
+      <option name="closed" value="true" />
+      <created>1701733913490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701733913490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Utworzenie klasy samochód z zadanymi parametrami">
+      <option name="closed" value="true" />
+      <created>1702719478688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702719478688</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added main class">
+      <option name="closed" value="true" />
+      <created>1702719921417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702719921417</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final product of Samochod class">
+      <option name="closed" value="true" />
+      <created>1702719942843</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702719942843</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final product of Zad 2">
+      <option name="closed" value="true" />
+      <created>1702720958613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702720958613</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final product of Zad 3">
+      <option name="closed" value="true" />
+      <created>1702724689592</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702724689592</updated>
+    </task>
+    <task id="LOCAL-00011" summary="empty Main class">
+      <option name="closed" value="true" />
+      <created>1702724713712</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702724713712</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final">
+      <option name="closed" value="true" />
+      <created>1702742125557</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702742125557</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First functionality" />
+    <MESSAGE value="Zadania o przetwarzaniu stringów od Pana sacewicza" />
+    <MESSAGE value="Utworzenie klasy samochód z zadanymi parametrami" />
+    <MESSAGE value="Added main class" />
+    <MESSAGE value="Final product of Samochod class" />
+    <MESSAGE value="Final product of Zad 2" />
+    <MESSAGE value="Final product of Zad 3" />
+    <MESSAGE value="empty Main class" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
