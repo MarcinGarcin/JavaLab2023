@@ -28,7 +28,7 @@ public class Zad_1A {
         // Wyświetl tablicę
         for (int i = 0; i < rozmiar; i++) {
             for (int j = 0; j < rozmiar; j++) {
-                System.out.printf("%.3f\t", tablica[i][j]);  // Zaokrągl do dwóch miejsc po przecinku
+                System.out.printf("%.2f\t", tablica[i][j]);  // Zaokrągl do dwóch miejsc po przecinku
             }
             System.out.println();  // Nowy wiersz
 
