@@ -23,7 +23,7 @@ public class Zad_1A {
 
         for (int i = 0; i < rozmiar; i++) {
             for (int j = 0; j < rozmiar; j++) {
-                System.out.printf("%.2f\t", tablica[i][j]);
+                System.out.printf("%.22f\t", tablica[i][j]);
             }
             System.out.println();
 
