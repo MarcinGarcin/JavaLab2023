@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Final">
-      <change afterPath="$PROJECT_DIR$/src/PlikiDanych/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlikiDanych/plik" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Ended task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705099704127</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1705103637411</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1705103637411</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +284,7 @@
     <MESSAGE value="Final product of Zad 3" />
     <MESSAGE value="empty Main class" />
     <MESSAGE value="Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+    <MESSAGE value="Ended task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ended task" />
   </component>
 </project>

@@ -58,7 +58,6 @@ public class Main {
 
         return liczbaSztuk;
     }
-
     public static void main(String[] args) {
         String nazwaPliku = "dane.txt";
         String nazwaTowaru = "Koszulka";
