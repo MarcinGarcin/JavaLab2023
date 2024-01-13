@@ -24,7 +24,6 @@ public class Main {
                 }
             }
 
-            // Resetowanie pozycji wskaźnika w strumieniu
             dis.close();
             DataInputStream dis2 = new DataInputStream(new FileInputStream(nazwaPliku));
 
@@ -32,19 +31,16 @@ public class Main {
             double[] cena = new double[linesAmount];
             int[] sztuki = new int[linesAmount];
 
-            // Wczytywanie danych do tablic
             for (int i = 0; i < linesAmount; i++) {
                 towar[i] = dis2.readUTF();
                 cena[i] = dis2.readDouble();
                 sztuki[i] = dis2.readInt();
 
-                // Zastosowanie rabatu dla danego towaru
                 if (towar[i].equals(nazwaTowaru) && sztuki[i] >= 100) {
                     sztuki[i] = (int) (sztuki[i] * rabat);
                     liczbaSztuk = sztuki[i];
                 }
 
-                // Zapis przetworzonych danych do nowego pliku
                 dos.writeUTF(towar[i]);
                 dos.writeDouble(cena[i]);
                 dos.writeInt(sztuki[i]);
@@ -57,7 +53,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        // Zamiana plików po zakończeniu przetwarzania
+
         File staryPlik = new File(nazwaPliku);
         File nowyPlik = new File("temp.txt");
         if (staryPlik.delete() && nowyPlik.renameTo(staryPlik)) {
@@ -69,10 +65,11 @@ public class Main {
         return liczbaSztuk;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         String nazwaPliku = "dane.txt";
-        String nazwaTowaru = "Koszulka";
+        String nazwaTowaru = "koszulka";
         int liczbaSztuk = przetwarzajPlik(nazwaPliku, nazwaTowaru);
         System.out.println("Liczba sztuk towaru " + nazwaTowaru + " po rabacie: " + liczbaSztuk);
+
     }
 }

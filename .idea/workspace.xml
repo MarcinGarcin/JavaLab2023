@@ -8,9 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dane.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaLab2023/PlikiDanych/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLab2023/PlikiDanych/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLab2023/PlikiDanych/plik" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PlikiDanych/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlikiDanych/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlikiDanych/plik" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705184889748</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1705186572263</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705186572263</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
