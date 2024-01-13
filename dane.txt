@@ -1,5 +1,0 @@
-Koszulka cena: 50.0, liczba sztuk: 120
-"Spodnie", cena: 100.0, liczba sztuk: 80
-"Buty", cena: 200.0, liczba sztuk: 150
-
-
