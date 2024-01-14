@@ -3,7 +3,7 @@ package IITermin2012;
 
 import java.util.Random;
 
-public class Zad_1A {
+public class Zad_A1 {
     public static void main(String[] args) {
         Random rand = new Random();
 
