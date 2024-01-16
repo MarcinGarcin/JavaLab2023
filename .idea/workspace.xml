@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Ended task">
+      <change afterPath="$PROJECT_DIR$/src/IITermin2012/Zad_B1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IITermin2012/Zad_A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IITermin2012/Zad_A3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dane.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +60,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlikiDanych.Main" />
+    <configuration name="Zad_B1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IITermin2012.Zad_B1" />
       <module name="JavaLab2023" />
       <extension name="coverage">
         <pattern>
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705228370592</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1705229345145</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1705229345145</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
