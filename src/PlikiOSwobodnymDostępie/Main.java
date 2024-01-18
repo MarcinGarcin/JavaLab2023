@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         try (RandomAccessFile file = new RandomAccessFile("dane_domow.txt", "rw")) {
 
+
             long liczbaRekordow = file.length() / (4 * 2 + 8 + 4); // String ma 2 bajty na jeden znak
 
             for (int i = 0; i < liczbaRekordow; i++) {
