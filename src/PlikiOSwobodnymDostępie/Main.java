@@ -18,8 +18,6 @@ public class Main {
                 double cena = file.readDouble();
                 String lokalizacja = file.readUTF();
 
-
-
                 if (liczbaKondygnacji == 1 && lokalizacja.equals("wies")) {
                     cena *= 0.9;
                     file.seek(file.getFilePointer() - 8);
