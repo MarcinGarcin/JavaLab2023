@@ -8,7 +8,7 @@ public class Main {
         try (RandomAccessFile file = new RandomAccessFile("dane_domow.txt", "rw")) {
 
 
-            long liczbaRekordow = file.length() / (4 * 2 + 8 + 4); // String ma 2 bajty na jeden znak
+            long liczbaRekordow = file.length() / (4 * 2 + 8 + 4);
 
             for (int i = 0; i < liczbaRekordow; i++) {
                 file.seek(i * (4 * 2 + 8 + 4));
@@ -17,6 +17,8 @@ public class Main {
                 int liczbaKondygnacji = file.readInt();
                 double cena = file.readDouble();
                 String lokalizacja = file.readUTF();
+
+
 
                 if (liczbaKondygnacji == 1 && lokalizacja.equals("wies")) {
                     cena *= 0.9;
