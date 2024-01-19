@@ -12,8 +12,6 @@ public class Main {
 
             for (int i = 0; i < liczbaRekordow; i++) {
                 file.seek(i * (4 * 2 + 8 + 4));
-
-                String nazwaDomu = file.readUTF();
                 int liczbaKondygnacji = file.readInt();
                 double cena = file.readDouble();
                 String lokalizacja = file.readUTF();
