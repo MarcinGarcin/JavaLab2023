@@ -2,12 +2,8 @@ package IITermin2016;
 
 public class A1 {
 
-    double A;
-    double B;
-    double C;
-
-    private double x1;
-    private double x2;
+    double A,B,C;
+    private double x1,x2;
     public A1(double a,double b,double c){
         if(a == 0){
             this.A = (b + c)/2;
@@ -18,8 +14,7 @@ public class A1 {
         this.C = c;
     }
     public double zwrocWartosc(double x){
-        double y = (A * Math.pow(2,x)) + (B * x) + C;
-        return y;
+        return (A * Math.pow(2,x)) + (B * x) + C;
     }
     public int liczbaPierwiastkow(){
         int liczbaPierwiastkow = 0 ;
