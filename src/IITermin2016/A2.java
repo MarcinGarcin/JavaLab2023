@@ -12,7 +12,6 @@ public class A2 {
         int liczbaSztuk;
         int zwracanaLiczbaSztuk = 0;
         while (raf.getFilePointer() < raf.length()){
-            System.out.println(raf.getFilePointer());
             towar = raf.readUTF();
             long pozPrzed =  raf.getFilePointer();
             cena = raf.readInt();
