@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Ended task">
-      <change afterPath="$PROJECT_DIR$/src/IITermin2016/A2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dane.txt" beforeDir="false" />
     </list>
@@ -41,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
     "last_opened_file_path": "C:/Users/Marcin/Documents/GitHub/JavaLab2023/src",
     "onboarding.tips.debug.path": "C:/Users/Marcin/Documents/GitHub/JavaLab2023/src/Main.java",
@@ -408,7 +407,63 @@
       <option name="project" value="LOCAL" />
       <updated>1706229698909</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706231706827</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1706231706827</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706231718884</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1706231718884</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706231731776</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1706231731776</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706231739967</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1706231739967</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706285539370</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1706285539370</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706286496484</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286496484</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706286628101</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286628101</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
