@@ -8,6 +8,7 @@ public class A1 {
             int cecha = Integer.parseInt(lancuch.substring(1, 9), 2) - 127;
 
             float mantysa = 1.0f;
+
             for (int i = 9; i < 32; i++) {
                 int bit = Integer.parseInt(lancuch.charAt(i) + "");
                 mantysa += bit * Math.pow(2, -(i - 8));
