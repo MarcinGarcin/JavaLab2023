@@ -12,7 +12,8 @@ public class A1 {
                 int bit = Integer.parseInt(lancuch.charAt(i) + "");
                 mantysa += bit * Math.pow(2, -(i - 8));
             }
-            return (float) (Math.pow(-1, znak_liczby) * mantysa * Math.pow(2, cecha));
+            float wynik = (float) (Math.pow(-1, znak_liczby) * mantysa * Math.pow(2, cecha));
+            return wynik;
         }
         public static void main(String[] args) {
             String lanuchBinarny = "11000011001000000000000000000000";
