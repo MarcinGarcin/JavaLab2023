@@ -14,9 +14,7 @@ public class A1 {
             }
             float wynik = (float) (Math.pow(-1, znak_liczby) * mantysa * Math.pow(2, cecha));
             return wynik;
-        }
-
-        public static void main(String[] args) {
+        }public static void main(String[] args) {
             String lanuchBinarny = "11000011001000000000000000000000";
             float wynik = liczbaF(lanuchBinarny);
             System.out.println(wynik);
