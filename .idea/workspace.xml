@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Ended task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d6a8beab-7ae5-4554-93a6-807066adbc79" name="Changes" comment="Ended task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,54 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701459973619</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Utworzenie klasy samochód z zadanymi parametrami">
-      <option name="closed" value="true" />
-      <created>1702719478688</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1702719478688</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Added main class">
-      <option name="closed" value="true" />
-      <created>1702719921417</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1702719921417</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Final product of Samochod class">
-      <option name="closed" value="true" />
-      <created>1702719942843</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1702719942843</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Final product of Zad 2">
-      <option name="closed" value="true" />
-      <created>1702720958613</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1702720958613</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Final product of Zad 3">
-      <option name="closed" value="true" />
-      <created>1702724689592</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1702724689592</updated>
-    </task>
-    <task id="LOCAL-00011" summary="empty Main class">
-      <option name="closed" value="true" />
-      <created>1702724713712</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1702724713712</updated>
     </task>
     <task id="LOCAL-00012" summary="Final">
       <option name="closed" value="true" />
@@ -486,7 +436,55 @@
       <option name="project" value="LOCAL" />
       <updated>1706468926260</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480305423</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480305423</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480321338</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480321338</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480528106</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480528106</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480553322</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480553322</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480581213</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480581213</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Ended task">
+      <option name="closed" value="true" />
+      <created>1706480591308</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1706480591308</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
