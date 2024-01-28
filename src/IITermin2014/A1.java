@@ -13,7 +13,8 @@ public class A1 {
                 mantysa += bit * Math.pow(2, -(i - 8));
             }
             return (float) (Math.pow(-1, znak_liczby) * mantysa * Math.pow(2, cecha));
-        }public static void main(String[] args) {
+        }
+        public static void main(String[] args) {
             String lanuchBinarny = "11000011001000000000000000000000";
             float wynik = liczbaF(lanuchBinarny);
             System.out.println(wynik);
