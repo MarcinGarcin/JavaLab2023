@@ -17,7 +17,7 @@ public class A1 {
             return wynik;
         }
         public static void main(String[] args) {
-            String lanuchBinarny = "11000011001000000000000000000000";
+            String lanuchBinarny = "1100001100100000000000000000000001";
             float wynik = liczbaF(lanuchBinarny);
             System.out.println(wynik);
         }
