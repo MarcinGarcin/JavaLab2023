@@ -20,14 +20,12 @@ public class A2 {
                 raf.seek(pozPrzed);
                 raf.write((int) (cena*0.9));
             }
-
             if(towar.equals(nazwaTowaru)){
                 zwracanaLiczbaSztuk = liczbaSztuk;
             };
         }
         return zwracanaLiczbaSztuk;
     }
-
     public static void main(String[] args) throws IOException {
         PrzeliczZamowienie("plik.txt", "koszulka");
 
