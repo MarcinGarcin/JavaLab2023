@@ -20,6 +20,7 @@ public class A2 {
                 raf.seek(pozPrzed);
                 raf.write((int) (cena*0.9));
             }
+
             if(towar.equals(nazwaTowaru)){
                 zwracanaLiczbaSztuk = liczbaSztuk;
             };
